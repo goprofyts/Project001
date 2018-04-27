@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page1.html",
+    "currentPage": "contact.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 19,
     "versionPublish": "4.7.2",
@@ -605,7 +605,7 @@
         }
       ]
     },
-    "page1.html": {
+    "contact.html": {
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "contact",
