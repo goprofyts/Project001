@@ -2095,6 +2095,126 @@ body {
 .cid-qQx2wQMWjH .mbr-section-btn {
   color: #ffffff;
 }
+.cid-qQx7muDriG {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-qQx7muDriG h2 {
+  text-align: center;
+}
+.cid-qQx7muDriG h3 {
+  text-align: center;
+  font-weight: 300;
+}
+.cid-qQx7muDriG p {
+  color: #767676;
+}
+.cid-qQx7muDriG .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  flex-basis: 100%;
+  -webkit-flex-basis: 100%;
+}
+.cid-qQx7muDriG .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  flex-shrink: 0;
+  -webkit-flex-shrink: 0;
+}
+.cid-qQx7muDriG .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+}
+.cid-qQx7muDriG .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qQx7muDriG .card-title {
+  font-weight: 500;
+}
+.cid-qQx7muDriG .card-img {
+  text-align: inherit;
+}
+.cid-qQx7muDriG .card-img span {
+  font-size: 48px;
+  color: #707070;
+}
+@media (min-width: 992px) {
+  .cid-qQx7muDriG .mbr-figure {
+    padding-right: 2rem;
+    padding-left: 2rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qQx7muDriG .mbr-figure {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-qQx7muDriG .mbr-figure {
+    padding-right: 0;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+  }
+  .cid-qQx7muDriG .block-content {
+    flex-direction: row;
+    -webkit-flex-direction: row;
+    text-align: center;
+  }
+  .cid-qQx7muDriG .block-content .card {
+    flex-basis: 100%;
+    -webkit-flex-basis: 100%;
+  }
+}
+.cid-qQxber7RLT {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qQxber7RLT .carousel-item {
+  justify-content: center;
+}
+.cid-qQxber7RLT .carousel-item.active,
+.cid-qQxber7RLT .carousel-item-next,
+.cid-qQxber7RLT .carousel-item-prev {
+  display: flex;
+}
+.cid-qQxber7RLT .carousel-controls a {
+  transition: opacity .5s;
+  font-size: 2rem;
+}
+.cid-qQxber7RLT .carousel-controls a span {
+  position: absolute;
+  top: 180px;
+  padding: 10px;
+  border-radius: 50%;
+  color: #585858;
+  background: #c8c6c6;
+  opacity: .5;
+}
+.cid-qQxber7RLT .carousel-controls a:hover span {
+  opacity: 1;
+}
+.cid-qQxber7RLT .user_image {
+  width: 200px;
+  height: 200px;
+  margin-bottom: 1.6rem;
+  overflow: hidden;
+  border-radius: 50%;
+  margin: 0 auto 2rem auto;
+}
+.cid-qQxber7RLT .user_image img {
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+@media (max-width: 230px) {
+  .cid-qQxber7RLT .user_image {
+    width: 100%;
+    height: auto;
+  }
+}
 .cid-qQqAN9HNPh {
   padding-top: 60px;
   padding-bottom: 60px;
