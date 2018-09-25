@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "GoProfyts",
-    "currentPage": "AffiliatesC2S.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 143,
+    "uniqCompNum": 144,
     "versionPublish": "4.7.2",
     "theme": {
       "name": "mobirise4",
@@ -41,7 +41,9 @@
     "path": "@PROJECT_PATH@",
     "favicon": "",
     "noImageResize": "",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "gdpr": "By continiung you agree to our <a href='our-policies.html'>Disclaimer, Privacy & Refund Policies</a>.",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='our-policies.html'>cookie policy</a>."
   },
   "pages": {
     "index.html": {
