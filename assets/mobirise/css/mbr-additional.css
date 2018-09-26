@@ -2282,7 +2282,7 @@ body {
 }
 .cid-qQxn29YQhg {
   padding-top: 90px;
-  padding-bottom: 0px;
+  padding-bottom: 90px;
   background-color: #efefef;
 }
 .cid-qQxn29YQhg .list-group-item {
@@ -2341,103 +2341,6 @@ body {
 }
 .cid-qQxn29YQhg SPAN {
   color: #3cc619;
-}
-.cid-r4K27edwOD {
-  padding-top: 0px;
-  padding-bottom: 90px;
-  background-color: #efefef;
-}
-.cid-r4K27edwOD .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-r4K27edwOD .formoid {
-  margin: auto;
-}
-.cid-r4K27edwOD .form-control {
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
-}
-.cid-r4K27edwOD a.btn {
-  flex: 0 0 auto;
-  -webkit-flex: 0 0 auto;
-}
-.cid-r4K27edwOD .input-group-btn {
-  align-self: center;
-  -webkit-align-self: center;
-  z-index: 3;
-}
-.cid-r4K27edwOD .input-group-btn .btn {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  border-top-right-radius: 3px;
-  border-bottom-right-radius: 3px;
-}
-.cid-r4K27edwOD a:not([href]):not([tabindex]) {
-  color: #fff;
-}
-.cid-r4K27edwOD a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-r4K27edwOD .mbr-subscribe .input-group-btn {
-  display: inline-block;
-}
-.cid-r4K27edwOD .mbr-subscribe .input-group-btn button,
-.cid-r4K27edwOD .mbr-subscribe .input-group-btn a {
-  margin-top: 0 !important;
-  margin-bottom: 0 !important;
-}
-@media (max-width: 350px) {
-  .cid-r4K27edwOD .mbr-subscribe {
-    flex-direction: column;
-    -webkit-flex-direction: column;
-  }
-  .cid-r4K27edwOD input[type="email"] {
-    width: 100%;
-    margin-bottom: 2px;
-  }
-  .cid-r4K27edwOD .input-group-btn {
-    width: 100%;
-  }
-  .cid-r4K27edwOD .input-group-btn .btn {
-    border-radius: 3px;
-  }
-}
-@media (max-width: 768px) {
-  .cid-r4K27edwOD .input-group-btn a.btn {
-    width: 100%;
-  }
-  .cid-r4K27edwOD .input-group-btn {
-    width: calc(92%);
-  }
-  .cid-r4K27edwOD .input-group-btn button[type="submit"] {
-    width: 100%;
-  }
-  .cid-r4K27edwOD .input-group {
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    margin: auto;
-    max-width: 300px;
-  }
-  .cid-r4K27edwOD .input-group input[type="email"] {
-    width: 100%;
-    margin-bottom: 3px;
-  }
-  .cid-r4K27edwOD .input-group span {
-    display: inline;
-    padding-left: 0;
-    padding-right: 0;
-  }
-  .cid-r4K27edwOD .input-group-btn button,
-  .cid-r4K27edwOD .input-group-btn a {
-    margin-left: 0 !important;
-    margin-right: 0 !important;
-  }
-}
-@media (min-width: 769px) {
-  .cid-r4K27edwOD .mbr-subscribe > * {
-    margin: 0 0.5rem;
-  }
 }
 .cid-qQxo3jOyoD {
   padding-top: 90px;
