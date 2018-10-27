@@ -8963,27 +8963,6 @@ body {
   display: block;
   text-align: center;
 }
-.cid-r7FcPPxMay {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
-  background: linear-gradient(45deg, #efefef, #000000);
-}
-@media (min-width: 992px) {
-  .cid-r7FcPPxMay .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-r7FcPPxMay .mbr-figure {
-    padding-bottom: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-r7FcPPxMay .mbr-text {
-    text-align: center;
-  }
-}
 .cid-r7FcPRvvPG {
   padding-top: 60px;
   padding-bottom: 60px;
