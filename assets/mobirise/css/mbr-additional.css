@@ -7890,13 +7890,13 @@ body {
   }
 }
 .cid-r7FeIvFsPs .navbar {
-  background: #2e2e2e;
+  background: #ffffff;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-r7FeIvFsPs .navbar-dropdown.bg-color.transparent.opened {
-  background: #2e2e2e;
+  background: #ffffff;
 }
 .cid-r7FeIvFsPs a {
   font-style: normal;
@@ -7984,7 +7984,7 @@ body {
   padding-bottom: 0;
 }
 .cid-r7FeIvFsPs .dropdown .dropdown-menu {
-  background: #2e2e2e;
+  background: #ffffff;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -8121,10 +8121,6 @@ body {
 .cid-r7FeIvFsPs .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
-.cid-r7FeIvFsPs .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-.cid-r7FeIvFsPs .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
-  margin-bottom: 1rem;
-}
 .cid-r7FeIvFsPs .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-r7FeIvFsPs .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -8219,10 +8215,6 @@ body {
   .cid-r7FeIvFsPs .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-r7FeIvFsPs .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
-  }
-  .cid-r7FeIvFsPs .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-  .cid-r7FeIvFsPs .navbar-collapse.show .navbar-nav .nav-item:last-child {
-    margin-bottom: 1rem;
   }
   .cid-r7FeIvFsPs .navbar-collapse.collapsing .navbar-buttons,
   .cid-r7FeIvFsPs .navbar-collapse.show .navbar-buttons {
@@ -9601,10 +9593,6 @@ body {
 .cid-r8qj0PLS4G .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
-.cid-r8qj0PLS4G .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-.cid-r8qj0PLS4G .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
-  margin-bottom: 1rem;
-}
 .cid-r8qj0PLS4G .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-r8qj0PLS4G .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -9699,10 +9687,6 @@ body {
   .cid-r8qj0PLS4G .navbar-collapse.collapsing .navbar-nav .nav-item,
   .cid-r8qj0PLS4G .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
-  }
-  .cid-r8qj0PLS4G .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
-  .cid-r8qj0PLS4G .navbar-collapse.show .navbar-nav .nav-item:last-child {
-    margin-bottom: 1rem;
   }
   .cid-r8qj0PLS4G .navbar-collapse.collapsing .navbar-buttons,
   .cid-r8qj0PLS4G .navbar-collapse.show .navbar-buttons {
